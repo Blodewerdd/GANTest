@@ -1,6 +1,6 @@
 Hi!
 
-I am including a few notes on my though process, things I might do differently in a project with a larger scope and instructions to run the test.
+I am including a few notes on my thought process, things I might do differently in a project with a larger scope and instructions on how to run the test.
 
 ## Notes
  - I have used Selenium, SpecFlow and C# for this solution as it's freshest in my mind
@@ -9,4 +9,4 @@ I am including a few notes on my though process, things I might do differently i
  - I was originally worried because the test takes a long time to run, however I realised that it's the page taking a long time to finish loading.
  
  ## Instructions to run: 
- Open solution in Visual Studio, right click on it, and select "Run tests" OR install NUnit Console and run ZooplaTest\ZooplaTest\bin\Debug\netcoreapp3.1\ZooplaTest.dll
+ Open solution in Visual Studio, right click on it, and select "Run tests"
