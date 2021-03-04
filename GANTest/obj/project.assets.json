@@ -7098,11 +7098,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\GANTest\\GANTest\\ZooplaTest\\GANTest.csproj",
+      "projectUniqueName": "D:\\work\\GANTest\\GANTest\\GANTest\\GANTest.csproj",
       "projectName": "GANTest",
-      "projectPath": "D:\\work\\GANTest\\GANTest\\ZooplaTest\\GANTest.csproj",
+      "projectPath": "D:\\work\\GANTest\\GANTest\\GANTest\\GANTest.csproj",
       "packagesPath": "C:\\Users\\Muddy\\.nuget\\packages\\",
-      "outputPath": "D:\\work\\GANTest\\GANTest\\ZooplaTest\\obj\\",
+      "outputPath": "D:\\work\\GANTest\\GANTest\\GANTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
